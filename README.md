@@ -94,6 +94,5 @@
 
 <!-- 底部收尾 -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb5/68747470733a2f2f70726f626f742e6d656469612f4550544736474d55414e772e676966" width="80%" alt="divider" />
   <p>✨ Keep Coding, Keep Moving ✨</p>
 </div>
