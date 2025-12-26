@@ -54,7 +54,7 @@
     <th style="padding: 10px; text-align: left; color: #61dafb;">技术栈</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/jianxia6/yolov5" style="color:#99ccff">YOLOv5 目标检测实战</a></td>
+    <td><a href="https://github.com/jianxia6/jianxia_yolov5" style="color:#99ccff">YOLOv5 目标检测实战</a></td>
     <td>基于YOLOv5的轻量化目标检测项目，支持自定义数据集训练与部署</td>
     <td>Python、PyTorch、YOLOv5、Linux</td>
   </tr>
