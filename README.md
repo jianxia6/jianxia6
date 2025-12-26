@@ -88,7 +88,7 @@
 ## 📫 Contact 联系我
 <div align="center">
 <p style="font-size:1rem;">欢迎交流技术问题，一起进步～</p>
-<a href="mailto:你的邮箱@xxx.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:1908527150@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/jianxia6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -96,11 +96,3 @@
 <div align="center">
   <p>✨ Keep Coding, Keep Moving ✨</p>
 </div>
-
-<!-- GitHub贡献统计卡片（替换成你的用户名） -->
-<details>
-  <summary>🏆 My Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=jianxia6&show_icons=true&theme=default" alt="GitHub Stats" />
-  <!-- 可选：添加贡献方格图 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jianxia6&theme=default" alt="GitHub Streak" />
-</details>
