@@ -37,13 +37,9 @@
 ## 📊 GitHub Stats 数据看板
 <!-- 深色浅色自适应，简洁炫酷 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jianxia6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianxia6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  
   <!-- 贡献贪吃蛇动画（核心炫酷点） -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianxia6&theme=tokyo-night&hide_border=true&area=true&height=220" width="80%" alt="activity graph"/>
-  <img src="https://raw.githubusercontent.com/jianxia6/jianxia6/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="80%" style="margin-top:10px"/>
-  <img src="https://raw.githubusercontent.com/jianxia6/jianxia6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="80%" style="margin-top:10px"/>
+
 </div>
 
 ---
@@ -58,22 +54,22 @@
     <th style="padding: 10px; text-align: left; color: #61dafb;">技术栈</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/[你的用户名]/xxx" style="color:#99ccff">YOLOv5 目标检测实战</a></td>
+    <td><a href="https://github.com/jianxia6/yolov5" style="color:#99ccff">YOLOv5 目标检测实战</a></td>
     <td>基于YOLOv5的轻量化目标检测项目，支持自定义数据集训练与部署</td>
     <td>Python、PyTorch、YOLOv5、Linux</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/[你的用户名]/xxx" style="color:#99ccff">Java 后端接口服务</a></td>
+    <td><a href="https://github.com/jianxia6/xxx" style="color:#99ccff">Java 后端接口服务</a></td>
     <td>SpringBoot+MyBatis 实现的RESTful API，支持多数据源与权限控制</td>
     <td>Java、SpringBoot、MyBatis、MySQL</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/[你的用户名]/xxx" style="color:#99ccff">Linux 运维脚本集</a></td>
+    <td><a href="https://github.com/jianxia6/xxx" style="color:#99ccff">Linux 运维脚本集</a></td>
     <td>项目部署、进程监控、日志清理等常用运维脚本，一键执行</td>
     <td>Linux、Shell、Docker、Nginx</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/[你的用户名]/xxx" style="color:#99ccff">Vite 前端快速模板</a></td>
+    <td><a href="https://github.com/jianxia6/xxx" style="color:#99ccff">Vite 前端快速模板</a></td>
     <td>轻量化前端工程模板，集成路由、状态管理，支持快速开发</td>
     <td>Vite、Vue、JavaScript</td>
   </tr>
@@ -84,7 +80,7 @@
 
 ## 🎖️ GitHub 奖杯
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jianxia6&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/jianxia6/jianxia6/main/images/jiangbei.png"  width="400" height="400" style="border-radius: 50%; border: 8px solid #61dafb" alt="trophy" />
 </div>
 
 ---
