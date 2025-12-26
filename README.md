@@ -1,11 +1,10 @@
 <div align="center">
 <!-- 个性头像+标题 -->
-<img src="https://avatars.githubusercontent.com/u/jianxia?s=100&v=4" width="120" height="120" style="border-radius: 50%; border: 4px solid #61dafb"/>
+<img src="https://raw.githubusercontent.com/jianxia6/jianxia6/main/images/jianxia.png"  width="120" height="120" style="border-radius: 50%; border: 4px solid #61dafb"/>
 <h1 style="font-size: 2.5rem; margin: 10px 0; color: #61dafb;">👋 Hi, I'm 简夏 </h1>
-<p style="font-size: 1.1rem; color: #888;">全栈技术玩家 | 后端深耕 | 机器学习爱好者 | Linux运维</p>
+<p style="font-size: 1.1rem; color: #888;">全栈技术玩家 | 后端深耕 | 机器学习爱好者 | AI技术爱好者</p>
 
 <!-- 动态分隔线 -->
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb5/68747470733a2f2f70726f626f742e6d656469612f4550544736474d55414e772e676966" width="80%" alt="divider" />
 </div>
 
 ---
@@ -38,13 +37,13 @@
 ## 📊 GitHub Stats 数据看板
 <!-- 深色浅色自适应，简洁炫酷 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jianxia6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianxia6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
   <!-- 贡献贪吃蛇动画（核心炫酷点） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[你的用户名]&theme=tokyo-night&hide_border=true&area=true&height=220" width="80%" alt="activity graph"/>
-  <img src="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="80%" style="margin-top:10px"/>
-  <img src="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="80%" style="margin-top:10px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jianxia6&theme=tokyo-night&hide_border=true&area=true&height=220" width="80%" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/jianxia6/jianxia6/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="80%" style="margin-top:10px"/>
+  <img src="https://raw.githubusercontent.com/jianxia6/jianxia6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="80%" style="margin-top:10px"/>
 </div>
 
 ---
@@ -85,7 +84,7 @@
 
 ## 🎖️ GitHub 奖杯
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[你的用户名]&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jianxia6&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
 </div>
 
 ---
@@ -94,7 +93,7 @@
 <div align="center">
 <p style="font-size:1rem;">欢迎交流技术问题，一起进步～</p>
 <a href="mailto:你的邮箱@xxx.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/[你的用户名]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jianxia6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <!-- 底部收尾 -->
