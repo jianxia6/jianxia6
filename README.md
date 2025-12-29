@@ -92,6 +92,8 @@
 <a href="https://github.com/jianxia6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+更多教程可关注：[0980011](https://www.0980011.xyz/)
+
 <!-- 底部收尾 -->
 <div align="center">
   <p>✨ Keep Coding, Keep Moving ✨</p>
